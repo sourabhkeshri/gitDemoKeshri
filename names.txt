@@ -1,0 +1,5 @@
+sourabh keshri is my name.
+I am learning git by kunal.
+
+to write : i
+to save changes: type esc :wq
