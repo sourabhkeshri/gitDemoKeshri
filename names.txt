@@ -3,3 +3,6 @@ I am learning git by kunal.
 
 to write : i
 to save changes: type esc :wq
+
+to link with gitHub repo : 
+git remote add origin link
